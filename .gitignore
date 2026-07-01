@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.DS_Store
+*.log
+.raycast-swift-build/
+.env
+.env.local
+.vscode/
+.idea/
+*.tsbuildinfo
