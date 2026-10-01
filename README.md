@@ -2,10 +2,6 @@
 
 > Spawn, switch, and cleanup parallel Claude Code sessions in git worktrees. One keystroke.
 
-![Raycast palette](docs/hero.png)
-
-<!-- Placeholder: replace docs/hero.png with a real screenshot of the Raycast root search showing all 5 commands. -->
-
 ## The problem
 
 Five half-finished branches. Three Warp tabs. Two Cursor windows. Zero idea which one was working on the auth refactor.
@@ -42,12 +38,6 @@ Open Raycast → `⌘ ,` → Extensions → Claude Worktrees:
 - **Worktree Root** — where new worktrees are created (default `~/worktrees`)
 - **Default Repo Root** — the repo to `git worktree add` from (blank = auto-detect)
 - **Terminal** — Warp / Terminal.app / iTerm
-
-## Demo
-
-![Demo](docs/demo.gif)
-
-<!-- Placeholder: 15-second screen capture of new-session → list-sessions → resume → cleanup. -->
 
 ## Requirements
 
